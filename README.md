@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Elhadad</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdallahhadad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdallahhadad7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-elhadad-469159223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-elhadad-469159223" height="30" width="40" /></a>
 <a href="https://fb.com/abdallah.elhadad.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah.elhadad.3" height="30" width="40" /></a>
 </p>
 
